@@ -1,0 +1,4 @@
+# Mantém finais de linha LF (padrão Linux/Vercel) em todos os arquivos de texto
+* text=auto eol=lf
+*.jpg binary
+*.png binary

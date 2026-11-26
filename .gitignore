@@ -1,0 +1,17 @@
+node_modules
+.next
+out
+.vercel
+.env
+.env.*
+!.env.example
+*.tsbuildinfo
+next-env.d.ts
+npm-debug.log*
+.DS_Store
+
+# Fotos originais em alta resolução (o site usa as versões otimizadas em public/images/clinica)
+/*.png
+
+# Vídeos brutos do Higgsfield (as versões otimizadas ficam em public/videos)
+assets/higgsfield-raw/*.mp4
